@@ -6,6 +6,7 @@
     "name": "Soufiane El Kassib",
     "email": "elkassib.soufiane@gmail.com"
   },
+  "repository": "https://github.com/kainio/calculatroforensak.git",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.86.0"
