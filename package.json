@@ -6,12 +6,13 @@
     "name": "Soufiane El Kassib",
     "email": "elkassib.soufiane@gmail.com"
   },
+  "license" :"MIT",
+  "publisher": "kainio",
   "repository": "https://github.com/kainio/calculatroforensak.git",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.86.0"
   },
-  "license" :"MIT",
   "categories": [
     "Other"
   ],
